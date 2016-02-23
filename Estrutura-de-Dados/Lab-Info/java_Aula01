@@ -1,0 +1,39 @@
+/*
+ * Aula 22-02-2016
+ * Faculdade FAP Estácio PA
+ * Prof.: Antônio Lobato.
+ */
+package aula_1;
+
+/**
+ *
+ * @author Arley Afonso
+ */
+public class Aula_1 {
+
+    /**
+     * @param args the command line arguments
+     */
+    public static void main(String[] args) {
+        /* -- 
+        // Código de saída
+        System.out.println("ola mundo");
+        System.out.printf("ola mundo\n");
+        System.out.printf("Hello Word!\n"); 
+        
+        -- */
+       
+        /* --
+        //saída de texto com variaveis
+        int a=2, b=3;
+        String Nome_Completo ="Arley Afonso";
+        
+        System.out.println("O valor da Soma é: " + (a+b));
+        System.out.printf("Meu nome completo é: " + Nome_Completo);
+       --*/    
+    
+        
+    }
+    
+}
+
